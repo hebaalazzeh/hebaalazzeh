@@ -14,7 +14,7 @@
 
 ### Hi there! 👋
 
-I'm **Heba Alazzeh**, a dynamic individual with a burning passion for technology and innovation. As a **Computer Science student** and **Software Engineer Intern** at Think Round, Inc., I'm constantly exploring new horizons in the world of software development and beyond.
+I'm **Heba Alazzeh**, a dynamic individual with a burning passion for technology and innovation. As a **Computer Science student**, I'm constantly exploring new horizons in the world of software development and beyond.
 
 #### 💡 What sets me apart:
 
