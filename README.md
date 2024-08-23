@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-Research%20at%20Stanford%20%7C%20Software%20Engineer%20Intern%20%40%20Kodely%20%7C%20AI%20Integration%20%7C%20Data%20Visualization-blue?style=for-the-badge" alt="Heba Alazzeh">
 </p>
 <div align="center">
-  <h3>👩‍💻 Software Engineer | 🎨 AI & Data Enthusiast | 🌱 Lifelong Learner</h3>
+  <h3>👩‍💻 Software Engineer Intern @ Kodely | Research @ Stanford | 🎨 AI & Data Enthusiast | 🌱 Lifelong Learner</h3>
 </div>
 Hi there! 👋
 I'm Heba Alazzeh, a passionate and innovative Software Engineer with experience in AI integration, data visualization, and advanced system optimization. As a Computer Science student at College of San Mateo, I am dedicated to leveraging cutting-edge technology to drive innovation and efficiency in every project I undertake.
@@ -28,6 +28,7 @@ I'm eager to connect with fellow tech enthusiasts, industry professionals, and p
   <p>💼 Explore my work on GitHub: [GitHub Profile](https://github.com/hebaalazzeh)</p>
 </div>
 📌 Professional Highlights:
+
 Research at Stanford - Software Engineer at Stanford Intelligent Systems Laboratory
 
 - Spearheaded AI integration projects in aviation, stress-testing ChatGPT models to enhance decision-making systems.
