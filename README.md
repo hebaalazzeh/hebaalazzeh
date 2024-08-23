@@ -30,18 +30,23 @@ I'm eager to connect with fellow tech enthusiasts, industry professionals, and p
 📌 Professional Highlights:
 Research at Stanford - Software Engineer at Stanford Intelligent Systems Laboratory
 
-Spearheaded AI integration projects in aviation, stress-testing ChatGPT models to enhance decision-making systems.
-Engineered a 3D geological data visualization tool, contributing to precise data analysis and strategic advancements.
+- Spearheaded AI integration projects in aviation, stress-testing ChatGPT models to enhance decision-making systems.
+- Engineered a 3D geological data visualization tool, contributing to precise data analysis and strategic advancements.
+
+
 Software Engineer Intern @ Kodely
 
-Developed and optimized API performance, improving user engagement and reducing load times.
-Led cross-functional teams to deliver client-centered solutions, increasing client satisfaction by 25%.
+- Developed and optimized API performance, improving user engagement and reducing load times.
+- Led cross-functional teams to deliver client-centered solutions, increasing client satisfaction by 25%.
+
 Website Management Intern @ The Medica Zone
 
-Redesigned the website interface, significantly improving user experience and site performance.
-Software Engineer Intern @ Tessellations School
+- Redesigned the website interface, significantly improving user experience and site performance.
 
-Automated systems and reduced network downtime with Python and Raspberry Pi solutions, enhancing operational efficiency.
+Software Engineer Intern @ Tessellations School
+- Automated systems and reduced network downtime with Python and Raspberry Pi solutions, enhancing operational efficiency.
+
+  
 🛠 Skills & Technologies:
 Languages & Frameworks: Python, Java, JavaScript, HTML5, CSS3, Django, React, React-Native, C++, SQL, Astro, Tailwind CSS
 AI & Machine Learning: AI integration, large language models (LLMs), prompt engineering, AI-driven decision-making systems
