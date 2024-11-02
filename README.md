@@ -1,62 +1,24 @@
-<div align="center">
-  <h1>🚀 Welcome to Heba Alazzeh's GitHub! 🌟</h1>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Research%20at%20Stanford%20%7C%20Software%20Engineer%20Intern%20%40%20Kodely%20%7C%20AI%20Integration%20%7C%20Data%20Visualization-blue?style=for-the-badge" alt="Heba Alazzeh">
-</p>
-<div align="center">
-  <h3>👩‍💻 Software Engineer | 🎨 AI & Data Enthusiast | 🌱 Lifelong Learner</h3>
-</div>
-Hi there! 👋
-I'm Heba Alazzeh, a passionate and innovative Software Engineer with experience in AI integration, data visualization, and advanced system optimization. As a Computer Science student at College of San Mateo, I am dedicated to leveraging cutting-edge technology to drive innovation and efficiency in every project I undertake.
-
-💡 What I bring to the table:
-AI & Machine Learning: With hands-on experience in AI integration, including large language models (LLMs) and AI-driven decision-making systems, I’m at the forefront of the next wave of technological innovation.
-
-Advanced Data Visualization: Whether it's crafting intricate 3D visualizations or optimizing database architectures, I specialize in turning complex data into actionable insights.
-
-System Optimization & API Development: I focus on enhancing system performance and developing robust APIs to ensure seamless and efficient user experiences.
-
-Cross-Functional Collaboration: A proven team player, I've successfully led and collaborated with cross-functional teams to deliver high-impact projects, always ensuring client satisfaction.
-
-🌟 Let's Connect and Collaborate:
-I'm eager to connect with fellow tech enthusiasts, industry professionals, and potential collaborators! Whether you have a challenging project, a great idea, or simply want to chat about the latest in technology, I'd love to hear from you. Let's create something extraordinary together!
-
-<div align="center">
-  <p>📫 Reach out to me via email: alazzehheba@gmail.com</p>
-  <p>🔗 Connect with me on LinkedIn: [Heba Alazzeh](https://www.linkedin.com/in/heba-alazzeh-114474287/)</p>
-  <p>💼 Explore my work on GitHub: [GitHub Profile](https://github.com/hebaalazzeh)</p>
-</div>
-📌 Professional Highlights:
-
-Research at Stanford - Software Engineer at Stanford Intelligent Systems Laboratory
-
-- Spearheaded AI integration projects in aviation, stress-testing ChatGPT models to enhance decision-making systems.
-- Engineered a 3D geological data visualization tool, contributing to precise data analysis and strategic advancements.
+# 💫 About Me:
+Hi there! 👋 I'm Heba Alazzeh, a passionate and innovative Software Engineer with experience in AI integration, data visualization, and advanced system optimization. As a Computer Science student at College of San Mateo, I am dedicated to leveraging cutting-edge technology to drive innovation and efficiency in every project I undertake.<br>💡 What I bring to the table: AI & Machine Learning: With hands-on experience in AI integration, including large language models (LLMs) and AI-driven decision-making systems, I’m at the forefront of the next wave of technological innovation.<br><br>Advanced Data Visualization: Whether it's crafting intricate 3D visualizations or optimizing database architectures, I specialize in turning complex data into actionable insights.<br><br>System Optimization & API Development: I focus on enhancing system performance and developing robust APIs to ensure seamless and efficient user experiences.<br><br>Cross-Functional Collaboration: A proven team player, I've successfully led and collaborated with cross-functional teams to deliver high-impact projects, always ensuring client satisfaction.<br><br>🌟 Let's Connect and Collaborate: I'm eager to connect with fellow tech enthusiasts, industry professionals, and potential collaborators! Whether you have a challenging project, a great idea, or simply want to chat about the latest in technology, I'd love to hear from you. Let's create something extraordinary together!
 
 
-Software Engineer Intern @ Kodely
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heba-alazzeh/) 
 
-- Developed and optimized API performance, improving user engagement and reducing load times.
-- Led cross-functional teams to deliver client-centered solutions, increasing client satisfaction by 25%.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hebaalazzeh&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hebaalazzeh&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebaalazzeh&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Website Management Intern @ The Medica Zone
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hebaalazzeh&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
-- Redesigned the website interface, significantly improving user experience and site performance.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hebaalazzeh&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
-Software Engineer Intern @ Tessellations School
-- Automated systems and reduced network downtime with Python and Raspberry Pi solutions, enhancing operational efficiency.
+---
+[![](https://visitcount.itsvg.in/api?id=hebaalazzeh&icon=7&color=10)](https://visitcount.itsvg.in)
 
-  
-🛠 Skills & Technologies:
-Languages & Frameworks: Python, Java, JavaScript, HTML5, CSS3, Django, React, React-Native, C++, SQL, Astro, Tailwind CSS
-AI & Machine Learning: AI integration, large language models (LLMs), prompt engineering, AI-driven decision-making systems
-Data Visualization & Database Management: SQL, 3D data visualization, Geographic Information Systems (GIS)
-System Optimization: Performance optimization, API development, debugging, and stress-testing
-
-- 👀 I’m interested in: Emerging technologies, AI, web development, UX/UI design.
-- 🌱 I’m currently learning: React Native, SwiftUI, advanced algorithms.
-- 💞️ I’m looking to collaborate on: Innovative projects that push the boundaries of technology. Seeking to apply expertise and experience in software engineering to take on a challenging new role within a growing team.
-- 📫 How to reach me: Feel free to email me at alazzehheba@gmail.com or on LinkedIn at https://www.linkedin.com/in/heba-alazzeh-114474287/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm also an avid crocheter and love creating intricate designs in my free time!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
