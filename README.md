@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Heba Alazzeh, a passionate and innovative Software Engineer with experience in AI integration, data visualization, and advanced system optimization. As a Computer Science student at UC Berkeley, I am dedicated to leveraging cutting-edge technology to drive innovation and efficiency in every project I undertake. <br>🌟 Let's Connect and Collaborate: I'm eager to connect with fellow tech enthusiasts, industry professionals, and potential collaborators! Whether you have a challenging project, a great idea, or simply want to chat about the latest in technology, I'd love to hear from you. Let's create something extraordinary together!
+Hi, my name is Heba, and I am a Computer Science student at UC Berkeley. I am passionate about building accessible, impactful technology and using software to solve real-world problems. I am driven by a desire to build technology that empowers people and communities, grounded in hands-on technical experience and collaborative problem-solving.
 
 
 ## 🌐 Socials:
