@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hebaalazzeh&style=for-the-badge&color=EEB32B&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/hebaalazzeh.svg?style=for-the-badge&label=%E2%9C%A6%20PROFILE%20VIEWS%20%E2%9C%A6&color=EEB32B&labelColor=171320" alt="Profile views" />
 
 <br/><br/>
 
