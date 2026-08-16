@@ -1,0 +1,7 @@
+<svg width="800" height="96" viewBox="0 0 800 96" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="800" height="96" rx="24" fill="#171320"/>
+<text x="400" y="52" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff">Written in the Stars</text>
+<rect x="368" y="66" width="64" height="2" rx="1" fill="#EEB32B"/>
+<text x="32" y="34" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="600" fill="#EEB32B">GITHUB</text>
+<text x="768" y="34" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#968FA3">@hebaalazzeh</text>
+</svg>
