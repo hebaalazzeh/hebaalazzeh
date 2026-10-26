@@ -1,53 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="370" viewBox="0 0 490 370" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-  <rect x="1" y="1" width="488" height="368" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="430" viewBox="0 0 490 430" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+  <rect x="1" y="1" width="488" height="428" rx="12" fill="#0d1117" stroke="#30363d"/>
   <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="22" r="6" fill="#27c93f"/>
-  <text x="88" y="27" font-size="13" fill="#8b949e">heba@github: ~</text>
+  <text x="88" y="27" font-size="13" fill="#8ab4d8">hebaalazzeh@github: ~</text>
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="62" font-size="15" fill="#39d353" font-weight="bold">heba@github</text>
-    <text x="24" y="82" font-size="15" fill="#30363d">─────────────────</text>
+    <text x="24" y="62" font-size="15" fill="#7dd3fc" font-weight="bold">hebaalazzeh@github</text>
+    <text x="24" y="82" font-size="15" fill="#30363d">──────────────────</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="112" font-size="15" fill="#79c0ff">School: </text>
-    <text x="92" y="112" font-size="15" fill="#e6edf3">CS @ UC Berkeley</text>
+    <text x="24" y="112" font-size="15" fill="#79c0ff">Name: </text>
+    <text x="74" y="112" font-size="15" fill="#e6edf3">Heba Alazzeh</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="142" font-size="15" fill="#79c0ff">Prev: </text>
-    <text x="74" y="142" font-size="15" fill="#e6edf3">Google, Uber, Snapchat</text>
+    <text x="24" y="142" font-size="15" fill="#79c0ff">School: </text>
+    <text x="92" y="142" font-size="15" fill="#e6edf3">CS @ UC Berkeley</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="172" font-size="15" fill="#79c0ff">Research: </text>
-    <text x="116" y="172" font-size="15" fill="#e6edf3">AI @ Stanford</text>
+    <text x="24" y="172" font-size="15" fill="#79c0ff">Prev: </text>
+    <text x="74" y="172" font-size="15" fill="#e6edf3">Google, Uber, Snapchat</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="202" font-size="15" fill="#79c0ff">Creator: </text>
-    <text x="110" y="202" font-size="15" fill="#e6edf3">LinkedIn Next Gen Voices</text>
+    <text x="24" y="202" font-size="15" fill="#79c0ff">Research: </text>
+    <text x="116" y="202" font-size="15" fill="#e6edf3">AI @ Stanford</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="232" font-size="15" fill="#79c0ff">Communities: </text>
-    <text x="145" y="232" font-size="15" fill="#e6edf3">ColorStack · RTC · GWC</text>
+    <text x="24" y="232" font-size="15" fill="#79c0ff">Creator: </text>
+    <text x="110" y="232" font-size="15" fill="#e6edf3">LinkedIn Next Gen Voices</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="262" font-size="15" fill="#79c0ff">Events: </text>
-    <text x="92" y="262" font-size="15" fill="#e6edf3">Cal Hacks ’26 · GHC ’26 · YC SU ’26</text>
+    <text x="24" y="262" font-size="15" fill="#79c0ff">Communities: </text>
+    <text x="145" y="262" font-size="15" fill="#e6edf3">ColorStack · RTC · GWC</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="292" font-size="15" fill="#79c0ff">Location: </text>
-    <text x="116" y="292" font-size="15" fill="#e6edf3">Burlingame, CA</text>
+    <text x="24" y="292" font-size="15" fill="#79c0ff">Events: </text>
+    <text x="92" y="292" font-size="15" fill="#e6edf3">Cal Hacks ’26 · GHC ’26 · YC SU ’26</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.5s" fill="freeze"/>
-    <text x="24" y="322" font-size="15" fill="#39d353">❯ </text>
-    <text x="44" y="322" font-size="15" fill="#8b949e">building secure systems</text>
+    <text x="24" y="322" font-size="15" fill="#79c0ff">Location: </text>
+    <text x="116" y="322" font-size="15" fill="#e6edf3">Burlingame, CA</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.5s" fill="freeze"/>
+    <text x="24" y="352" font-size="15" fill="#79c0ff">Focus: </text>
+    <text x="92" y="352" font-size="15" fill="#e6edf3">secure systems · AI</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.5s" fill="freeze"/>
+    <text x="24" y="382" font-size="15" fill="#79c0ff">Status: </text>
+    <text x="100" y="382" font-size="15" fill="#e6edf3">🔒 LOCKED IN</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.5s" fill="freeze"/>
+    <text x="24" y="412" font-size="15" fill="#7dd3fc">❯ </text>
+    <text x="44" y="412" font-size="15" fill="#a8d8ff">building secure systems</text>
   </g>
 </svg>
