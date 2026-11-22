@@ -1,22 +1,22 @@
 {
   "username": "hebaalazzeh",
-  "generated_at": "2026-11-21T14:43:12Z",
+  "generated_at": "2026-11-22T14:39:25Z",
   "range": {
-    "start": "2025-11-16",
-    "end": "2026-11-21"
+    "start": "2025-11-23",
+    "end": "2026-11-22"
   },
-  "total_contributions": 966,
-  "active_days": 154,
-  "avg_per_active_day": 6.3,
+  "total_contributions": 990,
+  "active_days": 155,
+  "avg_per_active_day": 6.4,
   "current_streak": {
-    "length": 111,
+    "length": 112,
     "start": "2026-08-03",
-    "end": "2026-11-21"
+    "end": "2026-11-22"
   },
   "longest_streak": {
-    "length": 111,
+    "length": 112,
     "start": "2026-08-03",
-    "end": "2026-11-21"
+    "end": "2026-11-22"
   },
   "best_day": {
     "date": "2026-08-16",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 319
+      "total": 343
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -1800,7 +1765,7 @@
     {
       "date": "2026-10-26",
       "count": 16,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-10-27",
@@ -1815,7 +1780,7 @@
     {
       "date": "2026-10-29",
       "count": 11,
-      "level": 3
+      "level": 2
     },
     {
       "date": "2026-10-30",
@@ -1890,7 +1855,7 @@
     {
       "date": "2026-11-13",
       "count": 16,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-11-14",
@@ -1905,7 +1870,7 @@
     {
       "date": "2026-11-16",
       "count": 16,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-11-17",
@@ -1915,7 +1880,7 @@
     {
       "date": "2026-11-18",
       "count": 16,
-      "level": 4
+      "level": 3
     },
     {
       "date": "2026-11-19",
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-11-21",
+      "count": 24,
+      "level": 4
+    },
+    {
+      "date": "2026-11-22",
       "count": 15,
       "level": 3
     }
